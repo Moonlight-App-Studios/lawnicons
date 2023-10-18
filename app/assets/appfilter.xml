@@ -4831,6 +4831,7 @@
   <item component="ComponentInfo{com.spotify.music/com.duapps.ad.DuAd}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.music/com.spotify.login.loginflowimpl.LoginActivity}" drawable="spotify" name="Spotify" />
   <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" name="Spotify" />
+  <item component="ComponentInfo{com.spoti.plus/com.spotify.music.MainActivity}" drawable="spotify" name="Spotify X" />
   <item component="ComponentInfo{oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="spotube" name="Spotube" />
   <item component="ComponentInfo{com.bobbyesp.spowlo/com.bobbyesp.spowlo.presentation.MainActivity}" drawable="spowlo" name="Spowlo" />
   <item component="ComponentInfo{org.woheller69.spritpreise/org.woheller69.spritpreise.activities.SplashActivity}" drawable="spritpreise" name="Spritpreise" />
